@@ -7,4 +7,4 @@
 - Низкая цена
 
 *логотип:*
-![Изображение логотипа](/Test2/NeuroStartUp/logo.png)
+![Изображение логотипа](NeuroStartUp\logo.png)
